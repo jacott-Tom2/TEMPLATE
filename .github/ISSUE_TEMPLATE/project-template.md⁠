@@ -1,0 +1,27 @@
+---
+name: Modèle de nouveau projet
+about: Créez et documentez un nouveau projet structuré.
+title: "[PROJET] "
+labels: 'projet'
+assignees: ''
+---
+
+## 1. Description
+* **Objectif :** 
+* **Public cible / Contexte :** 
+
+## 2. État d'avancement
+* **Statut actuel :** [ ] Idée / [ ] En cours de développement / [ ] En pause / [ ] Terminé
+* **Version actuelle :** v0.1.0
+* **Dernière étape réalisée :** 
+* **Prochaine étape prioritaire :** 
+
+## 3. Choses à ne pas oublier (Pièges & Notes importantes)
+> ⚠️ **Points de vigilance :**
+> * 
+
+## 4. Checklist de redémarrage (Reprendre concrètement)
+- [ ] **Étape 1 :** Cloner le dépôt et initialiser l'environnement.
+- [ ] **Étape 2 :** Installer les dépendances.
+- [ ] **Étape 3 :** Configurer les fichiers de configuration/secrets (`.env`).
+- [ ] **Étape 4 :** Lancer l'environnement de développement.
